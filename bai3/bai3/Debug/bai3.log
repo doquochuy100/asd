@@ -1,0 +1,4 @@
+﻿  chuongtrinh_lap3.cpp
+e:\quochuy-dh51903672\bai3\bai3\chuongtrinh_lap3.cpp(3): warning C4326: return type of 'main' should be 'int' instead of 'void'
+e:\quochuy-dh51903672\bai3\bai3\chuongtrinh_lap3.cpp(26): warning C4101: 'b2': unreferenced local variable
+  bai3.vcxproj -> E:\quochuy-DH51903672\bai3\Debug\bai3.exe
